@@ -1,1 +1,1 @@
-@copyright by becodemy 2023
+Full Stack Ecom Website 
